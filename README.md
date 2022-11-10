@@ -9,10 +9,11 @@
 
 - ⚡ Fun fact: We love Coffee!
 
-# ChainofSecrets (CoS)
-A Validator of [Secret Network](https://chainofsecrets.org) & are Web3 enthusiasts!.
+# Chain of Secrets (CoS)
+Chain of Secrets is an active Validator of [Secret Network](https://chainofsecrets.org) & are Web3 enthusiasts!.
 
 [What is Web3?](https://chainofsecrets.org/web3.html)
+[Validator Nodes](https://chainofsecrets.org/validator-as-a-service.html)
 
 
 
